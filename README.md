@@ -9,6 +9,7 @@ Goals achieved -
   4. Online simulations of basic circuits
   
 ## Lesson 2 - Arduino Basics
+   The pin diagram, syntax of the arduino programming, how to rum and upload the code on the microcontroller. Disussion of the functions    used frequently in arduino. HandsOn Session with Arduino.
   
 ## Lesson 3-4 - Arduino interfacing with sensors and displays
     Arduino + lcd display ="https://www.tinkercad.com/embed/9CrmkSk1TGd?editbtn=1"
@@ -16,4 +17,8 @@ Goals achieved -
     Arduino + 7segment display = "https://www.tinkercad.com/embed/8l2q4cTud8P?editbtn=1"
     
     arduino + Ultrasonics sensro = "https://www.tinkercad.com/embed/0lLDXO6dAj7?editbtn=1"
-
+## Lesson 5 - Integrating WiFi with the Arduino
+   Detailed discussion on pin diagram of the WiFi Module.
+   
+## Lesson 6- Sending Data to cloud using ThingSpeak and NodeMCU
+   Taught how to wrie/ read the variable/sensors data on the cloud.(ThingSpeak Platform)
