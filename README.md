@@ -21,4 +21,4 @@ Goals achieved -
    Detailed discussion on pin diagram of the WiFi Module.
    
 ## Lesson 6- Sending Data to cloud using ThingSpeak and NodeMCU
-   Taught how to wrie/ read the variable/sensors data on the cloud.(ThingSpeak Platform)
+   Taught how to write/ read the variable/sensors data on the cloud.(ThingSpeak Platform)
